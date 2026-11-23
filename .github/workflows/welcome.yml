@@ -7,4 +7,4 @@ on:
   jobs:
     welcome:
       name: Post welcome issue_comment:
-      runs-on: ubunutu-latest
+      runs-on: ubuntu-latest
